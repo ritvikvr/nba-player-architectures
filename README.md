@@ -169,7 +169,7 @@ MIT License
 BibTeX:
 ```
 @misc{ritvik2024nbaarch,
-  author = {Ritvik Verma},
+  author = {Ritvik},
   title = {NBA Performance Prediction with Deep Learning},
   year = {2024},
   url = {https://github.com/ritvikvr/nba-player-architectures}
@@ -184,7 +184,7 @@ BibTeX:
 
 ## 👤 Author
 
-**Ritvik Verma** (@ritvikvr)
+**Ritvik** (@ritvikvr)
 CS Engineering Student | AI/Data Science
 GitHub: https://github.com/ritvikvr
 
